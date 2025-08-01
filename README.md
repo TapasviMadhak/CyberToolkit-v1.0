@@ -251,7 +251,7 @@ This tool is for educational and authorized security testing purposes only. User
 ## 📞 Support
 
 If you have questions or need help:
-- 📧 Email: your.email@example.com
+- 📧 Email: madhaktapasvi@gmail.com
 - 💬 Create an issue on GitHub
 - 📖 Check the documentation
 
